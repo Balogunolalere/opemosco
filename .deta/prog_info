@@ -1,1 +1,0 @@
-{"id":"57bff5ce-f4f2-4f60-96c0-b6ac9fd2cf31","space":7746,"runtime":"python3.7","name":"opemosco","path":"kna20s","project":"a0w8cydc","account":"144798365827","region":"eu-central-1","deps":["fastapi","jinja2","aiofiles","python-multipart","email-validator","cloudinary"],"envs":null,"public":false,"log_level":"","cron":""}
